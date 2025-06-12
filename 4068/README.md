@@ -1,5 +1,56 @@
 # Learning Plan
 
+## Table of Contents
+
+- [PD Sample QnA LO3.md](PD%20Sample%20QnA%20LO3.md):  
+  Example Q&A for students, with multiple questions and model answers covering different perspectives and programming approaches.
+- [PD Test Questions.md](PD%20Test%20Questions.md):  
+  Tutor-only file with grouped test questions for each P/M/D assessment criterion (choose 1 from each group for full coverage).
+- [README.md](README.md):  
+  Learning plan, weekly breakdown, and detailed learning outcomes for the module.
+
+---
+
+## About the Files
+
+### PD Sample QnA LO3.md
+
+This file is for students. It contains a variety of sample questions and multiple model answers for each, demonstrating how to approach and defend different perspectives and programming solutions.  
+**How to use:**  
+- Review the questions and answers to understand different ways to respond.
+- Use as a study and revision resource to prepare for assessments.
+- Practice defending your answers using the examples provided.
+
+### PD Test Questions.md
+
+This file is for tutors only. It contains grouped test questions for each Pass (P), Merit (M), and Distinction (D) assessment criterion.  
+**How to use:**  
+- Tutors should select one question from each group to ensure full coverage of all assessment criteria.
+- Not intended for student distribution.
+
+---
+
+## How to View These Files
+
+Markdown files are best viewed in a Markdown-compatible viewer or editor, as simple text viewers may not render formatting, tables, or images correctly.
+
+- **Windows:**  
+  Use [Visual Studio Code](https://code.visualstudio.com/), [Typora](https://typora.io/), or open directly on [GitHub](https://github.com/) for proper formatting.
+- **iOS:**  
+  Use apps like [iA Writer](https://ia.net/writer), [Pretext](https://pretext.app/), or the GitHub app.
+- **Android:**  
+  Use [Markor](https://gsantner.net/project/markor.html), [JotterPad](https://2appstudio.com/jotterpad/), or the GitHub app.
+
+If you open these files in a basic text editor (like Notepad), formatting such as headings, bullet points, and tables will not display as intended.
+
+---
+
+### Learning Outcomes
+- **LO2:** Safety standards, hazard/risk assessment, cell safety features
+- **LO3:** Robot programming (MATLAB/Simulink), interfacing, hardware implementation
+
+---
+
 ## Week 1: Introduction to Safety in Robotics
 
 **Instructor:** Akbar Q  
