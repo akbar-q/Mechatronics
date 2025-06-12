@@ -45,6 +45,25 @@ If you open these files in a basic text editor (like Notepad), formatting such a
 
 ---
 
+## Open Document Formats Policy
+
+All teaching materials (such as presentations and documents) are shared in **Open Document formats** (e.g., `.odt`, `.odp`).  
+**Do not save or push files in Microsoft proprietary formats** (such as `.docx` or `.pptx`) to this repository—this is highly discouraged.
+
+- Microsoft Office programs (Word, PowerPoint, etc.) will show a warning and recommend converting Open Document files to their closed formats.  
+  **Always ignore this warning and continue working in the Open Document format.**
+- Microsoft Office does not allow saving Open Document files directly to OneDrive.  
+  Save your work locally and upload to the repository as needed.
+- To disable the conversion warning in Microsoft Office:  
+  Go to `File` → `Options` → `Save` → Uncheck "Prompt to convert on open" or similar option.
+
+**Summary:**  
+- Only use and share `.odt`, `.ods`, `.odp`, etc.  
+- Ignore Microsoft Office prompts to convert files.  
+- Do not upload `.docx` or `.pptx` files to the repository.
+
+---
+
 ### Learning Outcomes
 - **LO2:** Safety standards, hazard/risk assessment, cell safety features
 - **LO3:** Robot programming (MATLAB/Simulink), interfacing, hardware implementation
