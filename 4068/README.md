@@ -6,6 +6,18 @@
   Example Q&A for students, with multiple questions and model answers covering different perspectives and programming approaches.
 - [PD Test Questions.md](PD%20Test%20Questions.md):  
   Tutor-only file with grouped test questions for each P/M/D assessment criterion (choose 1 from each group for full coverage).
+- [Risk Assessment Form - Blank.odt](Risk%20Assessment%20Form%20-%20Blank.odt):  
+  Blank template for risk/hazard assessment activities.
+- [Template 1 LO2 Safety.odt](Template%201%20LO2%20Safety.odt):  
+  Assignment template for LO2 safety-related tasks.
+- [Unit 4068 assignment-brief.odt](Unit%204068%20assignment-brief.odt):  
+  Official assignment brief for the unit.
+- [Example Hazard Risk Assessments/](Example%20Hazard%20Risk%20Assessments/):  
+  Folder with sample risk assessment forms for various scenarios (e.g., light bulb changing, deep frying, hydraulic servicing, watering plants, office work).
+- [Presentations/](Presentations/):  
+  Teaching presentations in OpenDocument Presentation format (`.odp`).
+- [Standards/](Standards/):  
+  Reference standards and supporting documents for safety and robotics.
 - [README.md](README.md):  
   Learning plan, weekly breakdown, and detailed learning outcomes for the module.
 
@@ -28,6 +40,42 @@ This file is for tutors only. It contains grouped test questions for each Pass (
 - Tutors should select one question from each group to ensure full coverage of all assessment criteria.
 - Not intended for student distribution.
 
+### Risk Assessment Form - Blank.odt
+
+A blank template for students to complete risk and hazard assessment activities.
+
+### Template 1 LO2 Safety.odt
+
+A template for assignments and documentation related to Learning Outcome 2 (LO2) on safety.
+
+### Unit 4068 assignment-brief.odt
+
+The official assignment brief for the unit, outlining requirements and assessment criteria.
+
+### Example Hazard Risk Assessments/
+
+Contains sample risk assessment forms for various practical scenarios:
+- 01 Risk Assessment Form - Light Bulb Changing.odt
+- 02 Risk Assessment Form - Deep Frying.odt
+- 03 Risk Assessment Form - Hydraulic Servicing.odt
+- 04 Risk Assessment Form - Watering Plants.odt
+- 05 Risk Assessment Form - Office Work.odt
+
+### Presentations/
+
+Teaching presentations for the unit in `.odp` (OpenDocument Presentation) format.
+
+### Standards/
+
+Reference standards and supporting documents for safety, robotics, and mechatronics.
+
+---
+
+## MATLAB/Simulink & Hardware Materials
+
+All Simulink models, code, and hardware resources for the ESP32 robotic arm are available in the following repository:  
+[ESP32-Arm-6DOF-180Servo (GitHub)](https://github.com/akbar-q/Matlab-Simulink/tree/main/ESP32-Arm-6DOF-180Servo)
+
 ---
 
 ## How to View These Files
@@ -47,7 +95,7 @@ If you open these files in a basic text editor (like Notepad), formatting such a
 
 ## Open Document Formats Policy
 
-All teaching materials (such as presentations and documents) are shared in **Open Document formats** (e.g., `.odt`, `.odp`).  
+All teaching materials (such as presentations and documents) are shared in **Open Document formats** (e.g., `.odt`, `.odp`, `.ods`).  
 **Do not save or push files in Microsoft proprietary formats** (such as `.docx` or `.pptx`) to this repository—this is highly discouraged.
 
 - Microsoft Office programs (Word, PowerPoint, etc.) will show a warning and recommend converting Open Document files to their closed formats.  
