@@ -107,6 +107,17 @@ Most documents are for self-study, but some PDF presentations were delivered and
 
 ---
 
+## Where to Find Materials in the Learning Plan
+
+Throughout the weekly plan below, you will see references to activities, assignments, and case studies.  
+**All supporting materials, templates, and examples are provided in the folders and files listed above.**  
+- For risk assessment activities and case studies, see the [Example Hazard Risk Assessments/](Example%20Hazard%20Risk%20Assessments/) folder.
+- For safety standards and regulations, see the [Standards/](Standards/) folder.
+- For all presentations and summaries, see the [Presentations/](Presentations/) folder.
+- For programming and hardware (MATLAB/Simulink, ESP32), see the [external repository](https://github.com/akbar-q/Matlab-Simulink/tree/main/ESP32-Arm-6DOF-180Servo).
+
+---
+
 ## MATLAB/Simulink & Hardware Materials
 
 All Simulink models, code, and hardware resources for the ESP32 robotic arm are available in the following repository:  
@@ -165,10 +176,13 @@ All teaching materials (such as presentations and documents) are shared in **Ope
 - Risks: collisions, malfunctions, human error
 - Legal and ethical responsibilities for ensuring safety
 
-### Activities
-- **Video Activity:** Identify safety hazards in a provided video
-- **Group Task:** List out the issues and propose solutions (Issue 1 – Solution 1, etc.)
-- **Discussion:** What does a good robot workplace look like? (Guard rails, closed-off areas, walled-off control panels, intrusion detection systems, emergency stops, integration of safety systems, physical protection)
+### Activities & Materials
+- **Video Activity:** Identify safety hazards in a provided video  
+  *Refer to*: [Presentations/01 Introduction to Safe Robot Environments.odp](Presentations/01%20Introduction%20to%20Safe%20Robot%20Environments.odp) and `.rtf` summary
+- **Group Task:** List out the issues and propose solutions  
+  *Refer to*: [Risk Assessment Form - Blank.odt](Risk%20Assessment%20Form%20-%20Blank.odt)
+- **Discussion:** What does a good robot workplace look like?  
+  *Refer to*: [Presentations/01 Introduction to Safe Robot Environments.odp](Presentations/01%20Introduction%20to%20Safe%20Robot%20Environments.odp)
 
 ### Cell Safety Features & Safeguards
 - **Emergency Stops:** Proximity sensors, immediate termination of motion
@@ -192,7 +206,8 @@ All teaching materials (such as presentations and documents) are shared in **Ope
 - Teach pendants, HMIs, safety controls
 
 ### Assignments/Exercises
-- Identify good safety practices from images/videos
+- Identify good safety practices from images/videos  
+  *Refer to*: [Presentations/01 Introduction to Safe Robot Environments.odp](Presentations/01%20Introduction%20to%20Safe%20Robot%20Environments.odp)
 - List and discuss good practices
 
 ---
@@ -226,8 +241,11 @@ All teaching materials (such as presentations and documents) are shared in **Ope
 - Proactive cycle: Identify → Assess → Mitigate → Monitor
 - Techniques: Elimination, substitution, engineering controls, admin controls, PPE
 
-#### Activities
-- Identify 5 hazards and associated risks from scenarios/images
+#### Activities & Materials
+- Identify 5 hazards and associated risks from scenarios/images  
+  *Refer to*: [Example Hazard Risk Assessments/](Example%20Hazard%20Risk%20Assessments/) folder for sample forms and [Risk Assessment Form - Blank.odt](Risk%20Assessment%20Form%20-%20Blank.odt)
+- Review relevant safety standards  
+  *Refer to*: [Standards/](Standards/) folder
 
 ---
 
@@ -240,8 +258,9 @@ All teaching materials (such as presentations and documents) are shared in **Ope
 - Watering plants
 - Office work
 
-**Task:**  
-For each, identify hazards, assess risks, and propose mitigation.
+**Task & Materials:**  
+For each, identify hazards, assess risks, and propose mitigation.  
+*Refer to*: [Example Hazard Risk Assessments/](Example%20Hazard%20Risk%20Assessments/) folder for detailed examples.
 
 ---
 
@@ -259,11 +278,9 @@ For each, identify hazards, assess risks, and propose mitigation.
 - What is interfacing? Connecting devices via digital/analog signals
 - Types of signals: Digital input/output, analog input, PWM output
 
-#### Practical Tasks
-- Calculate LED resistor values
-- Read analog input (potentiometer, light sensor)
-- Simulate analog output (PWM for motors/LEDs)
-- H-Bridge motor driver simulation
+#### Practical Tasks & Materials
+- Calculate LED resistor values, read analog input, simulate analog output, H-Bridge motor driver simulation  
+  *Refer to*: [Presentations/03 Programming Foundations.odp](Presentations/03%20Programming%20Foundations.odp) and [external MATLAB/Simulink repo](https://github.com/akbar-q/Matlab-Simulink/tree/main/ESP32-Arm-6DOF-180Servo)
 
 ---
 
@@ -275,12 +292,13 @@ For each, identify hazards, assess risks, and propose mitigation.
 ### Components
 - Power rails, switches (inputs), coils (outputs), variables, function blocks
 
-### Exercises
-1. **AND Gate:** Safety door & start button
-2. **OR Gate:** Two emergency stop buttons
-3. **NOT Gate:** Warning light when no material detected
-4. **On/Off Latch:** Motor start/stop with memory
-5. **Blinky:** Warning beacon for fault condition
+### Exercises & Materials
+1. **AND Gate:** Safety door & start button  
+2. **OR Gate:** Two emergency stop buttons  
+3. **NOT Gate:** Warning light when no material detected  
+4. **On/Off Latch:** Motor start/stop with memory  
+5. **Blinky:** Warning beacon for fault condition  
+*Refer to*: [Presentations/04 PLC Programming Exercise.odp](Presentations/04%20PLC%20Programming%20Exercise.odp)
 
 ---
 
@@ -289,6 +307,7 @@ For each, identify hazards, assess risks, and propose mitigation.
 - Focus on programming, simulation, and hardware control of a 5-DOF ESP32 robotic arm
 - Integration of sensors, actuators, and safety features
 - Real-world application and troubleshooting
+- *Refer to*: [external MATLAB/Simulink repo](https://github.com/akbar-q/Matlab-Simulink/tree/main/ESP32-Arm-6DOF-180Servo), [Presentations/03 Programming Foundations.odp](Presentations/03%20Programming%20Foundations.odp), and [PD Sample QnA LO3.md](PD%20Sample%20QnA%20LO3.md) for programming approaches
 
 ---
 
@@ -296,6 +315,7 @@ For each, identify hazards, assess risks, and propose mitigation.
 
 - Consolidation of learning outcomes (LO2, LO3)
 - Final project: Design, simulate, and present a safe, functional robotic system using MATLAB/Simulink and ESP32 hardware
+- *Refer to*: [Unit 4068 assignment-brief.odt](Unit%204068%20assignment-brief.odt), [PD Test Questions.md](PD%20Test%20Questions.md), [Standards/](Standards/) folder for safety standards, and all previous weeks' materials
 
 ---
 
