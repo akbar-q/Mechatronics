@@ -13,6 +13,16 @@ This folder contains all teaching presentations for the unit, provided in OpenDo
 - **04 PLC Programming Exercise.odp / .rtf**  
   Introduction to PLC ladder logic and practical programming exercises.
 
+## Related Safety Presentations
+
+> **Important:**  
+> There are two additional safety presentations in the [Standards](../Standards/) folder:
+> - **01 - T97 - New ANSI RIA R15.06 & CSA Z434 Robot and Robot System Safety Presentation.pdf**
+> - **02 IEC 61508 & Functional Safety-2022 Presentation.pdf**
+>
+> These were delivered and explained in class and are essential for understanding safety standards.  
+> **Please refer to these PDFs in addition to the `.odp` presentations in this folder.**
+
 ## How to Use
 
 - Open `.odp` files with [LibreOffice Impress](https://www.libreoffice.org/), [OpenOffice Impress](https://www.openoffice.org/), or any compatible office suite.
