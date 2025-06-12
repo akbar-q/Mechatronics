@@ -13,11 +13,11 @@
 - [Unit 4068 assignment-brief.odt](Unit%204068%20assignment-brief.odt):  
   Official assignment brief for the unit.
 - [Example Hazard Risk Assessments/](Example%20Hazard%20Risk%20Assessments/):  
-  Folder with sample risk assessment forms for various scenarios (e.g., light bulb changing, deep frying, hydraulic servicing, watering plants, office work).
+  Folder with sample risk assessment forms for various scenarios (see below for details).
 - [Presentations/](Presentations/):  
-  Teaching presentations in OpenDocument Presentation format (`.odp`).
+  Teaching presentations in OpenDocument Presentation format (`.odp`) and accessible `.rtf` summaries, plus important notes on hardware programming and related safety presentations (see below).
 - [Standards/](Standards/):  
-  Reference standards and supporting documents for safety and robotics.
+  Reference standards, regulations, and safety presentations for self-study and exam preparation (see below).
 - [README.md](README.md):  
   Learning plan, weekly breakdown, and detailed learning outcomes for the module.
 
@@ -52,22 +52,58 @@ A template for assignments and documentation related to Learning Outcome 2 (LO2)
 
 The official assignment brief for the unit, outlining requirements and assessment criteria.
 
+---
+
+## Folders and Their Contents
+
 ### Example Hazard Risk Assessments/
 
-Contains sample risk assessment forms for various practical scenarios:
+Contains sample risk assessment forms for a variety of practical scenarios:
 - 01 Risk Assessment Form - Light Bulb Changing.odt
 - 02 Risk Assessment Form - Deep Frying.odt
 - 03 Risk Assessment Form - Hydraulic Servicing.odt
 - 04 Risk Assessment Form - Watering Plants.odt
 - 05 Risk Assessment Form - Office Work.odt
 
+**How to use:**  
+Review these examples to understand hazard identification, risk evaluation, and mitigation/control measures. Use as references for your own assignments.
+
 ### Presentations/
 
-Teaching presentations for the unit in `.odp` (OpenDocument Presentation) format.
+All teaching presentations are provided in `.odp` (OpenDocument Presentation) format, each with an accessible `.rtf` summary for quick reference or alternative viewing.
+
+- 01 Introduction to Safe Robot Environments.odp / .rtf
+- 02 Risks and Hazards.odp / .rtf
+- 03 Programming Foundations.odp / .rtf
+- 04 PLC Programming Exercise.odp / .rtf
+
+**Important:**  
+There are two additional safety presentations in the [Standards](./Standards/) folder:
+- 01 - T97 - New ANSI RIA R15.06 & CSA Z434 Robot and Robot System Safety Presentation.pdf
+- 02 IEC 61508 & Functional Safety-2022 Presentation.pdf
+
+These were delivered and explained in class and are essential for understanding safety standards.  
+**Please refer to these PDFs in addition to the `.odp` presentations in this folder.**
+
+**Hardware & Programming Note:**  
+A significant portion of this unit involves hands-on programming and debugging of hardware using MATLAB and Simulink. Allocate substantial time for setup, troubleshooting, and integration.
 
 ### Standards/
 
-Reference standards and supporting documents for safety, robotics, and mechatronics.
+This folder contains key standards, regulations, and reference materials for industrial robotics, safety, and mechatronics.  
+Most documents are for self-study, but some PDF presentations were delivered and explained during taught sessions.
+
+- 01 - T97 - New ANSI RIA R15.06 & CSA Z434 Robot and Robot System Safety Presentation.pdf *(delivered in class)*
+- 02 IEC 61508 & Functional Safety-2022 Presentation.pdf *(delivered in class)*
+- 03 CFR-2020-title29-vol5-part1910 Full Standard.pdf
+- 04 ISO-10218-1-2011 Sample Extract.pdf
+- 05 ISO-10218-2-2011 Sample Extract.pdf
+- 06 General principles for design (ISO 13849-1 2023) Sample Preview.pdf
+- 07 en iso 12100 relation machinery directive Presentation.pdf *(delivered in class)*
+
+**How to use:**  
+- Review for self-study and reference.
+- Pay special attention to presentations marked as delivered in class for exam and assignment preparation.
 
 ---
 
