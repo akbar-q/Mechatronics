@@ -50,31 +50,37 @@ Review the presentations and summaries each week as directed in the learning pla
 
 ## Weekly Breakdown
 
-### Week 1: Introduction to Pneumatic and Hydraulic Systems (LO1)
+### Week 1: Introduction to Pneumatic and Hydraulic Systems & MATLAB Programming (LO1, LO3)
 
 - **Topics:**  
   - Principles of fluid power
   - Applications in industry
   - Key differences: hydraulics vs. pneumatics
+  - Introduction to MATLAB programming and simulation for 4DOF robotic arm
 - **Materials:**  
   - [01 Introduction to Systems.odp](Presentations/01%20Introduction%20to%20Systems.odp)
+  - [ESP32-Arm-4DOF-Binary MATLAB/Simulink Model](https://github.com/akbar-q/Matlab-Simulink/tree/main/ESP32-Arm-4DOF-Binary)
 - **Activities:**  
   - Identify real-world examples
   - Discuss advantages/disadvantages
+  - Begin exploring and running the provided MATLAB/Simulink model
 
 ---
 
-### Week 2: System Components and Design (LO1, LO2)
+### Week 2: System Components and Design (LO1, LO2, LO3)
 
 - **Topics:**  
   - Common components: pumps, valves, actuators, tubing
   - System schematics and ISO symbols
   - Selecting actuators and sensors
+  - Continued MATLAB/Simulink work with 4DOF model
 - **Materials:**  
   - [02 Design and Modifications in Pneumatic and Hydraulic Systems.odp](Presentations/02%20Design%20and%20Modifications%20in%20Pneumatic%20and%20Hydraulic%20Systems.odp)
+  - [ESP32-Arm-4DOF-Binary MATLAB/Simulink Model](https://github.com/akbar-q/Matlab-Simulink/tree/main/ESP32-Arm-4DOF-Binary)
 - **Activities:**  
   - Draw system diagrams
   - Justify component choices
+  - Modify and test the MATLAB/Simulink model
 
 ---
 
@@ -84,11 +90,14 @@ Review the presentations and summaries each week as directed in the learning pla
   - Assignment overview and requirements
   - Design justification and optimization
   - Reliability and maintenance considerations
+  - Further MATLAB/Simulink simulation and analysis
 - **Materials:**  
   - [03 Guided Build and the Assignment Going Forward.odp](Presentations/03%20Guided%20Build%20and%20the%20Assignment%20Going%20Forward.odp)
+  - [ESP32-Arm-4DOF-Binary MATLAB/Simulink Model](https://github.com/akbar-q/Matlab-Simulink/tree/main/ESP32-Arm-4DOF-Binary)
 - **Activities:**  
   - Begin assignment work
   - Group discussion on design trade-offs
+  - Simulate and document results in MATLAB/Simulink
 
 ---
 
@@ -100,6 +109,7 @@ Review the presentations and summaries each week as directed in the learning pla
   - Identifying and implementing improvements
 - **Materials:**  
   - [02 Design and Modifications in Pneumatic and Hydraulic Systems.odp](Presentations/02%20Design%20and%20Modifications%20in%20Pneumatic%20and%20Hydraulic%20Systems.odp)
+  - [ESP32-Arm-4DOF-Binary MATLAB/Simulink Model](https://github.com/akbar-q/Matlab-Simulink/tree/main/ESP32-Arm-4DOF-Binary)
 - **Activities:**  
   - Simulate system scenarios
   - Propose design modifications
@@ -151,7 +161,7 @@ Review the presentations and summaries each week as directed in the learning pla
 
 - **LO1:** Weeks 1–2
 - **LO2:** Weeks 2–3
-- **LO3:** Weeks 3–4
+- **LO3:** Weeks 1–4
 - **LO4:** Weeks 5–6
 
 ---
