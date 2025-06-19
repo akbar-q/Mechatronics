@@ -1,0 +1,32 @@
+# Ignore VS Code workspace settings and history
+.vscode/
+*.code-workspace
+
+# Ignore Arduino build and backup files
+*.elf
+*.bin
+*.hex
+*.eep
+*.ino.*
+*.dmp
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Ignore compiled object files and logs
+*.o
+*.obj
+*.log
+
+# Ignore temporary files
+*.tmp
+*.swp
+*.bak
+*.sublime-workspace
+*.sublime-project
+
+# Ignore Python cache (if any)
+__pycache__/
+*.pyc
